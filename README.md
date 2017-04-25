@@ -1,0 +1,2 @@
+# startphpcore
+Starter php
